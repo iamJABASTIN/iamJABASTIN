@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a B.C.A Graduate, Fresher<br>🤝 I’m looking for help with frontend-web development<br>🌱 I’m currently learning full stack wed development / Java<br>⚡ Fun fact : I love Java but, I prefer tea.
+🔭 I’m a M.C.A Student<br>🤝 I’m looking for help with frontend-web development<br>🌱 I’m currently learning full stack wed development / Java<br>⚡ Fun fact : I love Java but, I prefer tea.
 
 
 # 💻 Tech Stack:
